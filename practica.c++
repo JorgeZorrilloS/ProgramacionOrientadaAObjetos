@@ -5,3 +5,6 @@ class cuentaBancaria {
     float saldo;
 };
 
+int main() {
+    return 0;
+}
